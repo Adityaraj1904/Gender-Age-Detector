@@ -95,7 +95,7 @@ To run this project, you'll need to download the required pre-trained models for
 <p><b>NOTE:- I downloaded the images from Google,if you have any query or problem i can remove them, i just used it for Educational purpose.</b></p>
 
     >python detect.py --image man2.jpg
-    Gender: Female
+    Gender: Male
     Age: 25-32 years
     
 <img width="1244" height="863" alt="Screenshot 2025-08-05 071900" src="https://github.com/user-attachments/assets/2f33066d-7bd3-40b0-810e-dda8a854a194" />
@@ -103,7 +103,7 @@ To run this project, you'll need to download the required pre-trained models for
 
     >python detect.py --image kid2.jpg
     Gender: Female
-    Age: 8-12 years
+    Age: 4-6 years
     
 <img width="991" height="888" alt="Screenshot 2025-08-05 071820" src="https://github.com/user-attachments/assets/a38a2bb0-ae8a-46ea-abcf-db561abc108a" />
 
